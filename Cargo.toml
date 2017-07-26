@@ -4,8 +4,8 @@ categories = ["asynchronous", "embedded", "hardware-support", "no-std"]
 description = "Board Support Crate for the Blue Pill"
 keywords = ["arm", "cortex-m", "stm32"]
 license = "MIT OR Apache-2.0"
-name = "blue-pill"
-repository = "https://github.com/japaric/blue-pill"
+name = "stm32duino-f103cb"
+repository = "https://github.com/HemantJoshi/stm32duino-f103cb"
 version = "0.1.0"
 
 [dependencies]
